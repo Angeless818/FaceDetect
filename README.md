@@ -87,7 +87,7 @@ https://realpython.com/blog/python/face-recognition-with-python/
 
 如果要辦到 **臉部辨識 ( Face Recognize)**，OpenCV 其實也可以辦到，可以透過OpenCV官網提供的演算法來完成，
 
-OpenCV 官方有提供三種Face Recognition演算法，分別為
+OpenCV 官方有提供三種 Face Recognition 演算法，分別為
 
 EigenFaceRecognizer、FisherFaceRecognizer、 LBPHFaceRecognizer。
 
@@ -103,9 +103,9 @@ EigenFaceRecognizer、FisherFaceRecognizer、 LBPHFaceRecognizer。
 收集人臉 --> 訓練  --> 得到一個 dataSet
 然後透過這個 dataSet  下去辨識。
 
-我認為使用 OpenCV 提供的Face Recognition演算法效果沒有非常好，
+我認為使用 OpenCV 提供的 Face Recognition 演算法效果沒有非常好，
 
-或許可以考慮用目前最紅的深度學習 (Deep learning) 處理精準度的問題，
+或許可以考慮用目前最紅的深度學習 ( Deep learning ) 處理精準度的問題，
 
 之前有稍微接觸深度學習結合人臉辨識，可以參考 [face-recognition-notes](https://github.com/twtrubiks/face-recognition-notes)
 
