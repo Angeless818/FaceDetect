@@ -105,7 +105,9 @@ EigenFaceRecognizer、FisherFaceRecognizer、 LBPHFaceRecognizer。
 
 我認為使用 OpenCV 提供的Face Recognition演算法效果沒有非常好，
 
-或許可以考慮用目前最紅的深度學習 (Deep learning) 處理精準度的問題。
+或許可以考慮用目前最紅的深度學習 (Deep learning) 處理精準度的問題，
+
+之前有稍微接觸深度學習結合人臉辨識，可以參考 [face-recognition-notes](https://github.com/twtrubiks/face-recognition-notes)
 
 ## 執行環境
 
