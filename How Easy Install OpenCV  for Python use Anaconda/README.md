@@ -42,13 +42,22 @@ How Easy Install OpenCV3 for Python use Anaconda
 
 ![alt tag](http://i.imgur.com/cR5wsM8.jpg)
 
-再教大家一個很方便的指令，查看目前所以的 envs
+再教大家一個很方便的指令，
+
+查看目前所以的 envs
 
 > conda info --envs
 
 ![alt tag](https://i.imgur.com/On8ljWU.png)
 
 雖然也可以直接到資料夾去查看，但使用指令的方式更快更方便 :blush:
+
+移除 env 指令
+
+> conda remove --name myenv --all
+> conda env remove --name myenv
+
+上面兩個指令都可以移除 env，myenv 就是你的 env_name
 
 ## 如何安裝 OpenCV3
 
