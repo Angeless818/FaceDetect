@@ -54,7 +54,7 @@ How Easy Install OpenCV3 for Python use Anaconda
 
 移除 env 指令
 
-> conda remove --name myenv --
+> conda remove --name myenv --all
 
 或
 
